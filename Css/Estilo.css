@@ -1,0 +1,23 @@
+*{
+    margin:0px;
+    padding:0px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+
+body{
+    background-color: #dcdcdc;
+
+}
+.Conteiner{
+    position: fixed;
+    left:auto;
+    top: auto;
+    margin-left: 18%;
+    margin-top: 5%;
+    width: 900px;
+    height: 500px;
+    background-color: grey;
+    border-radius:20px;
+
+}
