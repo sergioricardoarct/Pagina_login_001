@@ -9,6 +9,7 @@ body{
     background-color: #dcdcdc;
 
 }
+/**Fundo**/
 .Conteiner{
     position: fixed;
     left:auto;
@@ -19,5 +20,32 @@ body{
     height: 500px;
     background-color: grey;
     border-radius:20px;
-
+    background-image: url(../Imagens/335-3353900_load-screen-picture-for-league-of-legends-client.jpg);
+    background-size: cover;
+    box-shadow: 5px 5px 5px gray;
 }
+
+.Fundo{
+    float:left;
+    background-color: rgb(207, 233, 252);
+    width: 500px;
+    height: 500px;
+    border-radius:20px;
+   
+}
+
+.imagem{
+      
+    position: absolute;
+    left:auto;
+    top: auto;
+    margin-left:-20%;
+    margin-top: 16%;
+    border-radius:20px;
+    float: left;
+    width: 600px;
+    
+}
+
+/**Formulários**/
+
